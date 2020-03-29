@@ -1,0 +1,5 @@
+name: OldCombat
+main: com.gmail.filoghost.oldcombat.OldCombat
+version: 1.0
+
+depend: [WildCommons]
